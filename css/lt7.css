@@ -1,0 +1,115 @@
+body{width:expression(document.documentElement.clientWidth < 981 ? "981px" : "auto");}
+.news-add01 ul li{
+	padding-left: expression( (this===this.parentNode.childNodes[0]) ? "0px" : "auto"); 
+	background-image:expression( (this===this.parentNode.childNodes[0]) ? "none" : "auto");
+}
+.footer-menu01 li,
+.header-menu01 li{
+	background-image:expression( (this===this.parentNode.childNodes[0]) ? "none" : "auto");
+}
+#header h1 a{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/logo.png', sizingmethod='crop');
+	background-position:-9999px;
+	cursor:pointer;
+}
+.tabset ul li a:hover span,
+.tabset ul li a.active span{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-sidenav-hover-left.png', sizingmethod='crop');
+	background-position:-9999px;
+	cursor:pointer;
+}
+.tabset ul li a:hover em,
+.tabset ul li a.active em{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-sidenav-hover-right.png', sizingmethod='crop');
+	background-position:-9999px;
+	cursor:pointer;
+}
+.tabset ul li a span{
+	background:url(../images/bg-subnav-left.gif) no-repeat;
+}
+.tabset ul li a em{
+	background:url(../images/bg-subnav-right.gif) no-repeat;
+}
+.free-trial span{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/free-trial.png', sizingmethod='crop');
+	background:none;
+}
+.intro div{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-intro.png', sizingmethod='crop');
+	background:none;
+}
+.intro-logo a{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/logo02.png', sizingmethod='crop');
+	background-position:-9999px;
+	cursor:pointer;
+}
+.intro-add01 span{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/img12.png', sizingmethod='crop');
+	background:none;
+}
+.banner-box ul li{
+	padding-left: expression( (this===this.parentNode.childNodes[0]) ? "0px" : "auto"); 
+}
+.prev a{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/prev.png', sizingmethod='crop');
+	background-position:-9999px;
+	cursor:pointer;
+}
+.next a{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/next.png', sizingmethod='crop');
+	background-position:-9999px;
+	cursor:pointer;
+}
+.logo a{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/logo02.png', sizingmethod='crop');
+	background-position:-9999px;
+	cursor:pointer;
+}
+.btn-find-more span{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/find-out-more.png', sizingmethod='crop');
+	background-position:-9999px;
+	cursor:pointer;
+}
+.intro01-add{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-intro01.png', sizingmethod='crop');
+	background:none;
+}
+
+#intr02 .intro01-add, #intr02n .intro01-add{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-intro03.png', sizingmethod='crop');
+	background:none;
+}
+#intr03 .intro01-add, #intr03n .intro01-add{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-intro04.png', sizingmethod='crop');
+	background:none;
+}
+#intr04 .intro01-add, #intr04n .intro01-add{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-intro05.png', sizingmethod='crop');
+	background:none;
+}
+#intr05 .intro01-add, #intr05n .intro01-add{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-intro02.png', sizingmethod='crop');
+	background:none;
+}
+#intr06 .intro01-add, #intr06n .intro01-add{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-intro06.png', sizingmethod='crop');
+	background:none;
+}
+#intr07 .intro01-add, #intr07n .intro01-add{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-intro07.png', sizingmethod='crop');
+	background:none;
+}
+#intr08 .intro01-add, #intr08n .intro01-add{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/bg-intro08.png', sizingmethod='crop');
+	background:none;
+}
+.logo01 a{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/img20.png', sizingmethod='crop');
+	background-position:-9999px;
+	cursor:pointer;
+}
+.logo02 a{
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/img23.png', sizingmethod='crop');
+	background-position:-9999px;
+	cursor:pointer;
+}
